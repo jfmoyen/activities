@@ -1,0 +1,12 @@
+Package: activities
+Type: Package
+Title: Calculate Activities and related Values in Petrology
+Version: 0.1.0
+Author: J.-F. Moyen
+Maintainer: J.-F. Moyen <jfmoyen@gmail.com>
+Description: Various helper functions to extract activities
+    from perpleX exports.
+License: CC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
